@@ -11,3 +11,6 @@ disable=inconsistent-return-statements,too-many-branches
 
 [SIMILARITIES]
 ignore-imports=y
+
+[FORMAT]
+indent-string='    '
